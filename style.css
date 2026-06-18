@@ -1,1 +1,14 @@
+body{
+    margin: 0px;
+    padding: 0px;
 
+}
+
+header{
+    background-color : darkgreen;
+    color: white;
+}
+
+header{
+         height: 34px;
+   }
